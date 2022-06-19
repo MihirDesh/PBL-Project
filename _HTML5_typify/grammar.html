@@ -22,18 +22,47 @@
 		<meta name="description" content="" >
 		<link rel="StyleSheet" href="typify.css" />
 		<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
+		<link rel="StyleSheet" href="style.css" />
 		<!-- Add your custom HEAD content here -->
 
 	</head>
 	<body>
 		<div id="content-container" >
 
-
 			<div id="page_grammar_ek4"  >
+
 				<div id="_bg__grammar_ek5"  ></div>
 				<div id="s1x_generated_nomask__1_ek1"  ></div>
-				<div id="rectangle_1_ek1"  ></div>
-				<div id="rectangle_9_ek1"  ></div>
+				<div id="rectangle_1_ek1"  >
+					<div class="header">
+						<div class="wpm">
+						  <div class="header_text">WPM</div>
+						  <div class="curr_wpm">0</div>
+						</div>
+						<div class="cpm">
+						  <div class="header_text">CPM</div>
+						  <div class="curr_cpm">0</div>
+						</div>
+						<div class="errors">
+						  <div class="header_text">Errors</div>
+						  <div class="curr_errors">0</div>
+						</div>
+						<div class="timer">
+						  <div class="header_text">Time</div>
+						  <div class="curr_time">60s</div>
+						</div>
+						<div class="accuracy">
+						  <div class="header_text">% Accuracy</div>
+						  <div class="curr_accuracy">0</div>
+						</div>
+					  </div>
+				  
+					  <div class="quote">Click on the area below to start the game.</div>
+					  <textarea class="input_area" placeholder="start typing here..." oninput="processCurrentText()"
+						onfocus="startGame()"></textarea>
+					  <button class="restart_btn" onclick="resetValues()">Restart</button>
+				</div>
+				
 				<div id="shape_1_copy_1_ek2"  ></div>
 
 				<a id="downarrow_ek2_cls_a" href="arrow_down.html" >
@@ -41,7 +70,8 @@
 					<div id="__pngtree_vector_right_arrow_icon_4231911_1_ek2"  ></div>
 
 				</a>
-				<div id="rectangle_8_ek2"  ></div>
+				<div id="rectangle_8_ek2">
+				</div>
 
 				<div id="header_ek1"  >
 					<a id="_typify_ek2_link" href="desktop___1.html" >
@@ -85,5 +115,7 @@
 
 
 		</div>
+		<script src="PBLReact.js"></script>
+		<script src="game.js"></script>
 	</body>
 </html>
