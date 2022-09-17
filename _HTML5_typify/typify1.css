@@ -36,7 +36,6 @@ div { position: absolute; }
 	height: 257px;
 	overflow: hidden;
 	font-family: Montserrat;
-	font-weight: 900;
 	font-size: 100px;
 	text-align: center;
 	color:#72CFFF;
@@ -276,7 +275,6 @@ div { position: absolute; }
 	height: 140px;
 	overflow: hidden;
 	font-family: Montserrat;
-	font-weight: 900;
 	font-size: 74px;
 	text-align: center;
 	color:#72CFFF;
@@ -578,7 +576,6 @@ div { position: absolute; }
 	overflow: hidden;
 	font-family: Montserrat;
 	font-size: 74px;
-	font-weight: 900;
 	text-align: center;
 	color:#72CFFF;
 }
@@ -703,10 +700,10 @@ div { position: absolute; }
 
 
 #rectangle_1_ek2 {
-	top: 200px;
+	top: 284px;
 	left: 185px;
 	width: 505px;
-	height: 534px;
+	height: 434px;
 	-ms-border-radius: 23px;
 	-o-border-radius: 23px;
 	-moz-border-radius: 23px;
@@ -722,10 +719,10 @@ div { position: absolute; }
 
 
 #rectangle_9_ek2 {
-	top: 200px;
-	left: 750px;
-	width: 505px;
-	height: 534px;
+	top: 150px;
+	left: 70px;
+	width: 90%;
+	height: 60%;
 	-ms-border-radius: 23px;
 	-o-border-radius: 23px;
 	-moz-border-radius: 23px;
@@ -796,7 +793,6 @@ div { position: absolute; }
 	left: 1079px;
 	width: 339px;
 	height: 140px;
-	font-weight: 900;
 	overflow: hidden;
 	font-family: Montserrat;
 	font-size: 74px;
@@ -985,7 +981,6 @@ div { position: absolute; }
 	height: 50px;
 	overflow: hidden;
 	font-family: Montserrat;
-	font-weight: 900;
 	font-size: 24px;
 	text-align: center;
 	color:#000000;
@@ -1029,7 +1024,6 @@ div { position: absolute; }
 	left: 1079px;
 	width: 339px;
 	height: 140px;
-	font-weight: 900;
 	overflow: hidden;
 	font-family: Montserrat;
 	font-size: 74px;
@@ -1163,7 +1157,6 @@ div { position: absolute; }
 	width: 476px;
 	height: 257px;
 	overflow: hidden;
-	font-weight: 900;
 	font-family: Montserrat;
 	font-size: 100px;
 	text-align: center;

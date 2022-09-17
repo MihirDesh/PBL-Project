@@ -1,0 +1,259 @@
+/*
+	@name improve
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1141px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__improve {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1141px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+	background:rgba(201.88,236.91,255,1);
+}
+
+#header {
+	top: 13px;
+	left: 39px;
+	width: 1388px;
+	height: 88px;
+}
+
+#_typify {
+	top: 0px;
+	left: 1079px;
+	width: 339px;
+	height: 140px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-weight: 900;
+	font-size: 74px;
+	text-align: center;
+	color:#72CFFF;
+}
+
+
+#_coding {
+	top: 36px;
+	left: 328px;
+	width: 128px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_home {
+	top: 36px;
+	left: -4px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#typing {
+	top: 36px;
+	left: 480px;
+	width: 129px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_grammar {
+	top: 36px;
+	left: 147px;
+	width: 157px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#improve {
+	top: 36px;
+	left: 633px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_history {
+	top: 36px;
+	left: 784px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#about {
+	top: 36px;
+	left: 935px;
+	width: 128px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_10 {
+	top: 1011px;
+	left: 0px;
+	width: 1440px;
+	height: 130px;
+}
+
+#rectangle_9 {
+	top: -2px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+	background:rgba(201.88,236.91,255,1);
+}
+
+
+#___typify {
+	top: 47px;
+	left: 286px;
+	width: 138px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#___typifytypeassist {
+	top: 47px;
+	left: 451px;
+	width: 226px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#___typify_ek1 {
+	top: 47px;
+	left: 704px;
+	width: 138px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_social_media_ {
+	top: 47px;
+	left: 81px;
+	width: 178px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_9 {
+	top: 132px;
+	left: 0px;
+	width: 1440px;
+	height: 821px;
+}
+
+#improve_ek1 {
+	top: 34px;
+	left: 34px;
+	width: 143px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#start_slowly_familiarize_yourself_with_the_proper_hand_position_on_the_keyboard_and_start_with_typing_some_common_words__this_will_help_you_focus_on_reducing_errors__resist_looking_at_your_hands_and_eventually__you_ll_train_your_brain_to_send_your_fingers_flying_over_the_keys__learn_proper_typing_position___you_probably_know_roughly_where_the_keys_are_located_on_the_keyboard__but_the_goal_of_improving_your_typing_skills_is_to_do_it_without_looking_at_the_keys__set_yourself_up_for_success_by_putting_your_body_in_the_proper_position_for_comfort_and_avoiding_injury__follow_these_seven_steps_to_improve_your_typing_posture_and_positioning__sit_up_straight_in_a_chair_with_the_keyboard_or_laptop_at_a_comfortable_height_on_the_table_or_desk__put_your_feet_flat_on_the_floor__place_the_screen_so_it_s_15_to_25_inches_from_your_eyes__and_in_a_position_where_you_are_looking_down_slightly__keep_your_elbows_bent_at_a_90_degree_angle_and_try_to_expose_your_shoulders__arms__wrists_and_elbows_to_as_little_strain_as_possible__you_want_to_avoid_developing_any_habits_that_would_cause_repetitive_stress_injury_long_term__before_you_start__examine_the_keys__for_standard_english_language_keyboards__the_layout_is_called__qwerty__a_non_alphabetical_arrangement_that_s_been_around_since_the_1800s__some_keyboards_might_have_some_of_the_function_keys_in_different_places_or_might_be_slightly_curved_in_the_middle_or_on_the_edges_for_ergonomics__but_the_alphabet_and_punctuation_keys_will_be_in_the_same_place__place_your_left_and_right_pointer_fingers_on_the_f_and_the_j_keys__many_keyboards_have_a_little_raised_tab_on_those_letters_so_you_can_orient_your_fingers_without_looking__let_the_rest_of_your_fingers_on_each_hand_fall_on_the_remaining_keys_in_the_home_row__d__s__and_a_for_the_left_hand__k__l__and_the_____symbol_for_the_right_hand___both_thumbs_rest_on_the_space_bar__with_your_fingers_positioned_on_the_home_row__you_ll_train_your_hands_to_reach_all_the_other_keys_without_having_to_look__this_is_called__touch_typing___essentially__each_finger_is_responsible_for_the_keys_just_above_and_below_the_home_row_key_it_sits_on__try_to_imagine_vertical_dividers_around_each_finger__the_right_pinky_is_responsible_for_the_return__shift__and_delete_keys__and_the_left_pinky_is_for_the_shift__caps_lock__and_tab_keys__it_may_feel_awkward_at_first_since_our_pinky_fingers_aren_t_always_strong__but_with_practice__it_will_feel_more_natural_ {
+	top: 84px;
+	left: 55px;
+	width: 1367.5px;
+	height: 750.5px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 19px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#shape_1_copy_1 {
+	top: 953px;
+	left: 1266px;
+	width: 174px;
+	height: 188px;
+}
+
+
+
+/* Add your custom CSS here */

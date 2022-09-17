@@ -1,0 +1,116 @@
+body {
+    background-color: #19796f;
+    color: black;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+    font-size: 3rem;
+    color: rgb(185, 29, 29);
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .timer, .errors,
+  .accuracy, .cpm, .wpm {
+    background-color: #ccda46;
+    height: 60px;
+    width: 70px;
+    padding: 12px;
+    border-radius: 20%;
+    box-shadow: black 5px 8px 5px;
+  }
+  .wpm {
+    margin-left: 1800px;
+  }
+  .cpm {
+    background-color: #0cabea;
+    top: 440px;
+    left: 20px;
+  }
+  .timer {
+    background-color: #0cabea;
+    top: 440px;
+    left: 145px;
+  }
+  .accuracy{
+    background-color: #0cabea;
+    top: 440px;
+    left: 270px;
+  }
+  .errors{
+    background-color: #0cabea;
+    top: 440px;
+    left: 400px;
+  }
+  
+  .cpm, .wpm  {
+    display: block;
+  }
+  
+  .header_text {
+    text-transform: uppercase;
+    font-size: 0.6rem;
+    font-weight: 600;
+  }
+  
+  .curr_time, .curr_errors,
+  .curr_accuracy, .curr_cpm,
+  .curr_wpm {
+    font-size: 2.75rem;
+  }
+  
+  .quote {
+    background-color: #afe0f5;
+    font-size: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin: 30px;
+    height: 325px;
+    padding: 25px;
+    box-shadow: black 2px 4px 2px;
+  }
+  
+  .input_area {
+    background-color: #e7e7e1;
+    height: 250px;
+    width: 50%;
+    margin: 25px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    
+    padding: 70px;
+    border: 0px;
+    
+    
+  }
+  
+  .incorrect_char {
+    color: red;
+    text-decoration: underline;
+  }
+  
+  .correct_char {
+    color: rgba(73, 228, 12, 0.973);
+  }
+  
+  .restart_btn {
+    margin-left:200px ;
+    display: block;
+    background-color: #0992e7;
+    border-radius: 40px;
+    font-size: 1.5rem;
+    padding: 10px;
+    border: 0px;    
+    box-shadow: black 2px 4px 2px;
+  }

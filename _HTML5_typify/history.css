@@ -1,0 +1,377 @@
+/*
+	@name history
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; height: 3442px; margin-left: auto; margin-right: auto;  }
+
+#_bg__history {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3442px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+	background:rgba(201.88,236.91,255,1);
+}
+
+#header {
+	top: 13px;
+	left: 39px;
+	width: 1388px;
+	height: 88px;
+}
+
+#_typify {
+	top: 0px;
+	left: 1079px;
+	width: 339px;
+	height: 140px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-weight: 900;
+	font-size: 74px;
+	text-align: center;
+	color:#72CFFF;
+}
+
+
+#_coding {
+	top: 36px;
+	left: 328px;
+	width: 128px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_home {
+	top: 36px;
+	left: -4px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#typing {
+	top: 36px;
+	left: 480px;
+	width: 129px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_grammar {
+	top: 36px;
+	left: 147px;
+	width: 157px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#improve {
+	top: 36px;
+	left: 633px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#history {
+	top: 36px;
+	left: 784px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#about {
+	top: 36px;
+	left: 935px;
+	width: 128px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_9 {
+	top: 132px;
+	left: 0px;
+	width: 1440px;
+	height: 3178px;
+}
+
+#history_of_typing {
+	top: 34px;
+	left: 34px;
+	width: 231px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#in_november_1868_sholes_changed_the_layout_like_this_ {
+	top: 1234px;
+	left: 64px;
+	width: 651px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#in_1873_sholes_s_backer__james_densmore__successfully_sold_the_manufacturing_rights_for_the_sholes___glidden_type_writer_to_e__remington_and_sons__the_keyboard_layout_was_finalized_within_a_few_months_by_remington_s_mechanics_and_was_ultimately_presented_ {
+	top: 1234px;
+	left: 722px;
+	width: 680px;
+	height: 197px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#after_they_purchased_the_device__remington_made_several_adjustments__creating_a_keyboard_with_essentially_the_modern_qwerty_layout__these_adjustments_included_placing_the__r__key_in_the_place_previously_allotted_to_the_period_key__apocryphal_claims_that_this_change_was_made_to_let_salesmen_impress_customers_by_pecking_out_the_brand_name__type_writer_quote__from_one_keyboard_row_are_not_formally_substantiated__2__vestiges_of_the_original_alphabetical_layout_remained_in_the__home_row__sequence_dfghjkl_the_modern_layout_is_ {
+	top: 1728px;
+	left: 63px;
+	width: 1339px;
+	height: 216px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_8 {
+	top: 947px;
+	left: 61px;
+	width: 1316px;
+	height: 220px;
+}
+
+
+#image_9 {
+	top: 1312px;
+	left: 64px;
+	width: 626px;
+	height: 349px;
+}
+
+
+#image_10 {
+	top: 1417px;
+	left: 722px;
+	width: 586px;
+	height: 244px;
+}
+
+
+#the_current_keyboard_layout_used_now_is__ {
+	top: 2470px;
+	left: 63px;
+	width: 1310px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_18 {
+	top: 69px;
+	left: 32px;
+	width: 1346px;
+	height: 819px;
+}
+
+#s1x_generated_nomask__1 {
+	top: 61px;
+	left: 29px;
+	width: 1317px;
+	height: 500px;
+}
+
+
+#before_the_age_of_the_computer__typewriters_fulfilled_our_need_to_write_faster_than_our_pens_would_allow__christopher_latham_sholes__february_14__1819___february_17__1890__was_an_american_inventor_who_invented_the_qwerty_keyboard__2__and__along_with_samuel_w__soule__carlos_glidden_and_john_pratt__has_been_contended_to_be_one_of_the_inventors_of_the_first_typewriter_in_the_united_states__3__4__5__he_was_also_a_newspaper_publisher_and_wisconsin_politician__in_his_time__sholes_went_by_the_names_c__latham_sholes__latham_sholes__or_c__l__sholes__but_never__christopher_sholes__or__christopher_l__sholes___history_of_qwerty_keyboard__how_did_it_come_to_be__the_qwerty_layout_was_devised_and_created_in_the_early_1870s_by_christopher_latham_sholes__a_newspaper_editor_and_printer_who_lived_in_kenosha__wisconsin__in_october_1867__sholes_filed_a_patent_application_for_his_early_writing_machine_he_developed_with_the_assistance_of_his_friends_carlos_glidden_and_samuel_w__soul___1__the_first_model_constructed_by_sholes_used_a_piano_like_keyboard_with_two_rows_of_characters_arranged_alphabetically_as_shown_below_ {
+	top: 56px;
+	left: 690px;
+	width: 684.5px;
+	height: 755.5px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 23px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_7 {
+	top: 15px;
+	left: 25px;
+	width: 628px;
+	height: 784px;
+}
+
+#frame_10 {
+	top: 3312px;
+	left: 0px;
+	width: 1440px;
+	height: 130px;
+}
+
+#rectangle_9 {
+	top: -2px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+	background:rgba(201.88,236.91,255,1);
+}
+
+
+#___typify {
+	top: 47px;
+	left: 286px;
+	width: 138px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#___typifytypeassist {
+	top: 47px;
+	left: 451px;
+	width: 226px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#___typify_ek1 {
+	top: 47px;
+	left: 704px;
+	width: 138px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_social_media_ {
+	top: 47px;
+	left: 81px;
+	width: 178px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#shape_1_copy_1 {
+	top: 3208px;
+	left: 1223px;
+	width: 217px;
+	height: 234px;
+}
+
+
+#image_11 {
+	top: 2088px;
+	left: 68px;
+	width: 1309px;
+	height: 466px;
+}
+
+
+#image_12 {
+	top: 2642px;
+	left: 68px;
+	width: 1308px;
+	height: 635px;
+}
+
+
+
+/* Add your custom CSS here */

@@ -162,6 +162,7 @@ function startGame() {
   // clear old and start a new timer
   clearInterval(timer);
   timer = setInterval(updateTimer, 1000);
+  restart_btn.style.display = "block";
 }
 
 function resetValues() {

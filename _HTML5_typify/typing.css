@@ -1,0 +1,267 @@
+/*
+	@name typing
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1268px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__typing {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1268px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+	background:rgba(201.88,236.91,255,1);
+}
+
+#header {
+	top: 13px;
+	left: 39px;
+	width: 1388px;
+	height: 88px;
+}
+
+#_typify {
+	top: 0px;
+	left: 1079px;
+	width: 339px;
+	height: 140px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-weight: 900;
+	font-size: 74px;
+	text-align: center;
+	color:#72CFFF;
+}
+
+
+#_coding {
+	top: 36px;
+	left: 328px;
+	width: 128px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_home {
+	top: 36px;
+	left: -4px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#typing {
+	top: 36px;
+	left: 480px;
+	width: 129px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_grammar {
+	top: 36px;
+	left: 147px;
+	width: 157px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#improve {
+	top: 36px;
+	left: 633px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_history {
+	top: 36px;
+	left: 784px;
+	width: 127px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#about {
+	top: 36px;
+	left: 935px;
+	width: 128px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_9 {
+	top: 132px;
+	left: 0px;
+	width: 1440px;
+	height: 1006px;
+}
+
+#s1x_generated_nomask__1 {
+	top: 130px;
+	left: 61px;
+	width: 1317px;
+	height: 500px;
+}
+
+
+#touch_typing__touch_typing_is_a_style_or_technique_of_typing_that_is_said_to_be_the_fastest_or_the_most_efficient_on_then_present_keyboard_layout__it_is_the_technique_that_any_anyone_aspiring_to_be_proficient_in_typing_must_know__this_technique_is_often_referred_to_as_blind_typing__because_the_person_doesn_t_rely_on_his_vision_to_look_at_keys_and_find_specific_letter_to_type__muscle_memory_is_utilized_by_the_person_to_type__and_this_enables_saving_time_that_is_wasted_in_individually_looking_for_specific_keys_and_their_positions__touch_typing_provides_phonics_training_helpful_to_dyslexic_children_typing_helps_dyslexic_children_break_up_words_into_smaller_sounds__this_familiarizes_a_child_with_what_letters_make_what_sound__touch_typing_employs_multi_sensory_learning_and_develops_muscle_memory__touch_typing_is_multi_sensory__it_links_sight_and_hearing_to_touch__touch_typing_also_develops_muscle_memory__very_useful_when_learning_letter_patterns_and_spelling__touch_typing_makes_writing_easier_for_children_who_have_handwriting_difficulties_such_as_dysgraphia__children_with_dysgraphia_may_find_holding_a_pen_difficult_and_painful__touch_typing_eliminates_this_difficulty_allowing_them_to_focus_on_their_work__touch_typing_is_faster_than_handwriting_touch_typing_leads_to_fluency_using_a_keyboard__when_a_person_has_mastered_touch_typing__they_will_have_more_time_to_focus_on_their_ideas_when_working_ {
+	top: 107px;
+	left: 61px;
+	width: 1346px;
+	height: 876px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_typing_techniques {
+	top: 32px;
+	left: 28px;
+	width: 293px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_10 {
+	top: 1138px;
+	left: 0px;
+	width: 1440px;
+	height: 130px;
+}
+
+#rectangle_9 {
+	top: -2px;
+	left: 0px;
+	width: 1440px;
+	height: 132px;
+	background:rgba(201.88,236.91,255,1);
+}
+
+
+#___typify {
+	top: 47px;
+	left: 286px;
+	width: 138px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#___typifytypeassist {
+	top: 47px;
+	left: 451px;
+	width: 226px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#___typify_ek1 {
+	top: 47px;
+	left: 704px;
+	width: 138px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_social_media_ {
+	top: 47px;
+	left: 81px;
+	width: 178px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#shape_1_copy_1 {
+	top: 1010px;
+	left: 1206px;
+	width: 234px;
+	height: 252px;
+}
+
+
+
+/* Add your custom CSS here */

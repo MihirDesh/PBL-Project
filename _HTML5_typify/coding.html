@@ -22,6 +22,7 @@
 		<meta name="description" content="" >
 		<link rel="StyleSheet" href="typify.css" />
 		<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
+		<link rel="stylesheet" href="style1.css">
 		<!-- Add your custom HEAD content here -->
 
 	</head>
@@ -32,8 +33,37 @@
 			<div id="page_coding_ek3"  >
 				<div id="_bg__coding_ek4"  ></div>
 				<div id="s1x_generated_nomask__1_ek2"  ></div>
-				<div id="rectangle_1_ek2"  ></div>
-				<div id="rectangle_9_ek2"  ></div>
+				<div id="rectangle_1_ek2"  >
+					<div class="quote">Click on the adjoining area to start the Typing Test.</div>
+					<div class="header">
+						<div class="wpm">
+						  <div class="header_text">WPM</div>
+						  <div class="curr_wpm">0</div>
+						</div>
+						<div class="cpm">
+						  <div class="header_text">CPM</div>
+						  <div class="curr_cpm">0</div>
+						</div>
+						<div class="errors">
+						  <div class="header_text">Errors</div>
+						  <div class="curr_errors">0</div>
+						</div>
+						<div class="timer">
+						  <div class="header_text">Time</div>
+						  <div class="curr_time">60s</div>
+						</div>
+						<div class="accuracy">
+						  <div class="header_text">% Accuracy</div>
+						  <div class="curr_accuracy">0</div>
+						</div>
+					  </div>
+				</div>
+				<div id="rectangle_9_ek2"  >
+
+					  <textarea class="input_area" placeholder="start typing here..." oninput="processCurrentText()"
+						onfocus="startGame()"></textarea>
+					  <button class="restart_btn" onclick="resetValues()">Restart</button>
+				</div>
 				<div id="shape_1_copy_1_ek3"  ></div>
 
 				<a id="downarrow_ek3_cls_a" href="arrow_down.html" >
@@ -57,20 +87,26 @@
 						Home
 					</div>
 					</a>
-					<div id="typing_ek2" >
-						Typing
-					</div>
+					<a id="typing_ek2_link" href="typing.html">
+						<div id="typing_ek2" >
+							Typing
+						</div>
+					</a>
 					<a id="_grammar_ek7_link" href="grammar.html" >
 					<div id="_grammar_ek7" >
 						Grammar
 					</div>
 					</a>
-					<div id="improve_ek2" >
-						Improve
-					</div>
-					<div id="history_ek2" >
-						History
-					</div>
+					<a id="improve_ek2_link" href="improve.html">
+						<div id="improve_ek2" >
+							Improve
+						</div>
+					</a>
+					<a id="history_ek2_link" href="history.html">
+						<div id="history_ek2" >
+							History
+						</div>
+					</a>
 					<a id="_about_ek2_link" href="arrow_down.html" >
 					<div id="_about_ek2" >
 						About
@@ -83,5 +119,7 @@
 
 
 		</div>
+		<script src="PBLReact.js"></script>
+		<script src="game1.js"></script>
 	</body>
 </html>
